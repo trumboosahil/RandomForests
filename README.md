@@ -9,5 +9,10 @@
 
 ![image](https://user-images.githubusercontent.com/3725274/145554936-3e7048ea-4a7c-49fb-adb9-502b15c800ee.png)
 
-## Step3 : Build more trees with large variety of tress
+## Step 3 : Build more trees with large variety of tress
+
+## Step 4 : 
+
+![image](https://user-images.githubusercontent.com/3725274/145555412-f67202f3-19bc-434d-908d-d624ed8fc49f.png)
+
 
